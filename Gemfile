@@ -14,7 +14,7 @@ end
 gem 'web-console', '~> 2.0', :group => :development
 
 gem 'protected_attributes'
-gem 'json', '~> 2.0'
+gem 'json', '~> 2.3'
 gem 'haml'
 gem 'haml-rails'
 gem 'therubyracer'
